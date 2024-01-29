@@ -5,11 +5,10 @@ const Navbar = () => {
   return (
 <div className='navbar_start'>
          
-         <nav className="navbar navbar-expand-lg  p-4">
+         <nav className="navbar navbar-expand-lg  p-3"  style={{boxShadow:"1px 10px 10px 0px #E2E6E1",fontSize:"18px"}}>
       <div className="container-fluid">
         <NavLink className="navbar-brand" to="/">
      
-    {/* <svg width="35" height="53" viewBox="0 0 75 83" fill="none" xmlns="http://www.w3.org/2000/svg">...</svg>         */}
      
     </NavLink>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
