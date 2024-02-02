@@ -1,0 +1,25 @@
+body{
+  background-color: blueviolet;
+}
+.App {
+  text-align: center;
+  
+}
+
+button{
+  color: white;
+  background-color: rgb(18, 197, 96); 
+  padding: 13px 25px;
+  font-size: 20px;
+  border-radius: 10px;
+  margin: 10px 5px; 
+}
+.up{
+  font-size: 30px;
+  font-family: cursive;
+  margin-top: 13rem;
+  color: aliceblue;
+}
+.r{
+  font-size: 16px;
+}
